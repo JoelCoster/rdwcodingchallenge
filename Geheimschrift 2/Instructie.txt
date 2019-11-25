@@ -1,0 +1,5 @@
+Iemand heeft een tweetal versleutelde berichten verstuurd. De berichten zijn versleuteld door middel van een Vigenère cipher. Deze keer weten we de code niet ;( Wel weten we dat deze bestaat uit 5 letters.
+
+Maak een script dat de berichten kan ontsleutelen. Het bericht kan meerdere regels bevatten, en hoofdletters moeten behouden blijven.
+
+N.B. Alleen letters tellen mee bij het decoden, dus een spatie verhoogt de positie in je key niet!

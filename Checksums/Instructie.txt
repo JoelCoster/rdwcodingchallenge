@@ -1,0 +1,3 @@
+Je hebt hier twee pdf bestanden. Schrijf een programma dat de checksum geeft.
+
+Tip: Kijk wat er in de bestanden staat

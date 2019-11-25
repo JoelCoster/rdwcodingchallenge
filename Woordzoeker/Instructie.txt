@@ -1,0 +1,5 @@
+Schrijf een programma dat woordzoekers kan oplossen.
+
+De input van het programma bestaat uit een rechthoekig vlak met letters gevolgd door een lege regel, welke gevolgd wordt door een lijst met woorden, waarbij elk woord op een eigen regel staat.
+
+De woorden kunnen horizontaal, verticaal en diagonaal in de woordzoeker staan. Na het oplossen moet het programma de woordzoeker printen (terminal of bestand). De letters die gebruikt zijn in een woord moeten hierbij worden vervangen door een #.

@@ -1,0 +1,29 @@
+Schrijf een programma dat het minimale aantal stappen aangeeft om door een doolhof te lopen.
+
+Een doolhof is altijd rechthoekig, en bestaat uit de volgende onderdelen:
+    Muur: #
+    Pad: (spatie)
+    Startpunt: X
+Een doolhof kan meerdere uitgangen hebben.
+
+Een simpel doolhof kan er bijvoorbeeld als volgt uit zien:
+
+############
+##      ## #
+## #### ## #
+## #### ## #
+#X   #     #
+######## # #
+#        # #
+# ##########
+
+Bij dit doolhof is het minimale aantal stappen 23, zoals te zien in onderstaand figuur.
+
+############
+##456789## #
+##3####0## #
+##2####1## #
+#X1  # 23  #
+########4# #
+#21098765# #
+#3##########

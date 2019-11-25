@@ -1,0 +1,1 @@
+Schrijf een enkele regel code die een bestand leest, alle tokens met meer dan 4 tekens weggooit, en de andere tokens schrijft naar een ander bestand.

@@ -1,0 +1,5 @@
+Dit is een vervolg op de 'Makkelijk puntje' challenge. Mocht je die niet hebben gehaald, dan mag je deze challenge WEL doen.
+
+Zoals te zien in de output van 'Makkelijk puntje' zijn de ASCII-art puntjes niet erg rond. Om dit op te lossen gaan we de output schalen op de X-as.
+
+Pas je programma aan om een zo rond mogelijke punt te produceren, die nog wel binnen de aangegeven grootte past.

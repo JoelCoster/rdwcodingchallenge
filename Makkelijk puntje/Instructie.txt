@@ -1,0 +1,15 @@
+Schrijf een programma dat als input een getal krijgt.
+Het programma moet een zo groot mogelijke ASCII-art cirkel tekenen. De punt moet er als volgt uit zien (voor getal 9):
+
+    .    
+  .###.  
+ .#####. 
+ .#####. 
+.#######.
+ .#####. 
+ .#####. 
+  .###.  
+    .    
+    
+
+Hint: denk aan driehoeken

@@ -1,0 +1,12 @@
+De rij van Fibonacci is genoemd naar Leonardo van Pisa, bijgenaamd Fibonacci. Hij noemt de rij in zijn boek Liber abaci uit 1202.
+
+De rij, ook wel reeks van Fibonacci genoemd, begint met 0 en 1 en vervolgens is elk volgende element van de rij steeds de som van
+de twee voorgaande elementen. De eerste elementen van de rij zijn dan als volgt:
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597
+
+
+In het invoerbestand staat een getal dat een positie in de reeks voorsteld; het doel van de opdracht is om het getal uit de reeks
+horende bij deze positie terug te geven. Het tellen van de posities begint bij 0.
+
+LET OP: de oplossing dient gebruik te maken van een recursieve functie om het juiste getal te vinden

@@ -1,0 +1,9 @@
+Het doel van deze opdracht is om de kortste route tussen twee punten te vinden binnen een
+netwerk. De invoerbestanden bevatten per regel de letters van twee punten gevolgd door de afstand
+tussen deze twee punten, zoals in het onderstaande voorbeeld:
+
+A   B   5
+B   C   3
+
+De eerste regel van het bestand bevat twee letters zonder een afstand, doel is om de korste
+afstand tussen deze twee punten te berekenen.

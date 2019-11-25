@@ -1,0 +1,11 @@
+Voor onderzoek rijd Jeol met een Toyoda Pirus een rondje over bedrijventerrein Westpoort. Hierbij heeft hij via de ODB2 poort van de Toyoda een opname gemaakt van de interne berichten van de auto. In deze opname zijn zaken terug te vinden zoals Jeol's snelheid, hoe ver het gaspedaal is ingetrapt en in welke versnelling de auto staat.
+
+Een regel in het logbestand ziet er als volgt uit:
+  (1565188076.060948) can0 4A7#0E007B0070000000
+
+Hierbij is (1565188076.060948) een unix timestamp en can0 de poort waarop de communicatie is opgenomen. In onze data komt alle data van deze poort.
+Het bericht zelf komt hierna (4A7#0E007B0070000000). Het gedeelte voor de '#' is een identifier. Elk bericht bevat daarnaast ook nog enkele bytes aan data, welke hierboven in hexadecimaal zijn uitgedrukt.
+
+De snelheid van de auto is bij de Toyoda Pirus te vinden in berichten met identifier 0b4 in de bytes met index 5 en 6. In een bericht als '000000002517BAB2' bestaat de snelheid dus uit 0x17 en 0xBA. Door deze samen als getal te lezen (0x17BA) krijg je de snelheid in gigameter per uur op het moment van dat bericht.
+
+De snelheidslimiet op bedrijventerrein Westpoort is 50 km/h. Hoeveel km/h heeft Jeol maximaal te hard gereden (afgerond op 1 decimaal)?

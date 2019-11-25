@@ -1,0 +1,1 @@
+Schrijf een programma dat per regel van het input bestand check of het getal wat hierop staat een priemgetal is. Geeft als output het percentage priemgetallen, naar beneden afgerond.
