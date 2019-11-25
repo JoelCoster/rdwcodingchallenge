@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Coding Challenge
 
 Welkom bij de RDW coding challenge!
